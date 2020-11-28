@@ -31,3 +31,6 @@ Driver do motor: ULN2003
 Bomba que tem no mercado:
 https://www.centermedical.com.br/bomba-de-infusao-equipo-universal/p
 (15000 reais)
+
+
+Temos disponível Intel Galileo 2016
